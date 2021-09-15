@@ -51,8 +51,8 @@
     <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.2.1" />
     <PackageReference Include="Azure.Identity" Version="1.4.0" />
     <PackageReference Include="Google.Protobuf" Version="3.14.0" />
-    <PackageReference Include="Grpc.AspNetCore.Server" Version="2.34.0" />
-    <PackageReference Include="Grpc.Tools" Version="2.34.0" PrivateAssets="All" />    
+    <PackageReference Include="Grpc.AspNetCore.Server" Version="2.39.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.39.1" PrivateAssets="All" />    
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.16.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.DependencyCollector" Version="2.16.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.Kubernetes" Version="1.1.3" />
